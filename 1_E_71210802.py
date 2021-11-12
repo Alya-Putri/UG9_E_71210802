@@ -1,0 +1,5 @@
+a = float(input("Masukan alas Atas : "))
+b = float(input("Masukan alas Bawah : "))
+t = float(input("Masukan Tinggi : "))
+result = (((a+b)/2)*t)
+print("Luas Trapesium adalah : ", result)
